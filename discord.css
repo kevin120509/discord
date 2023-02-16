@@ -1,0 +1,292 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body{
+  font-family: helvetica;
+  font-size: 16px;
+  line-height: 24px;
+  color: #333;
+}
+.ancho{
+  width: 1200px;
+  margin: auto;
+}
+.fondoazul{
+  background-color: #445ef2;
+  padding-bottom: 40px;
+}
+.logomenu img{
+  margin-bottom: 10px;
+  width: 200px;
+  height: 80px;
+  float: left;
+}
+.contenedor_menu{
+  text-align: center;
+  padding-top: 40px;
+}
+.menu2{
+  padding:20px 30px 20px 10px;
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  border-radius: 20px;
+  font-size: 16px;
+}
+.menu{
+  float: right;
+  padding: 10px 20px;
+  background-color: white;
+  color: black;
+border-radius: 20px;
+text-decoration: none;
+font-weight: bold;
+font-size: 14px;
+margin-right: 20px;
+}
+.menu2:hover{
+  background-color: white;
+  color: black;
+}
+.fondo{
+  background-image: url(imagenes/fondo_slide.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+}
+.fondo h1{
+  padding: 40px;
+  font-size: 60px;
+  color: white;
+  font-family: impact;
+}
+.negris{
+  width: 700px;
+text-align: center;
+color: white;
+line-height: 32px;
+margin: auto;
+text-align: center;
+
+}
+.boton_blanco{
+  padding: 10px 30px;
+  background-color: white;
+  color: black;
+  text-decoration: none;
+  border-radius: 30px;
+  vertical-align:bottom;
+  margin-right: 30px;
+  margin: 30px;
+}
+.boton_blanco img{
+  width:20px ;
+  height:20px;
+}
+.boton_negro{
+  padding: 10px 30px;
+  background-color: black;
+  color: white;
+  text-decoration: none;
+  border-radius: 30px;
+}
+
+.acomodar{
+float: right; 
+padding: 15px; 
+width: 400px;
+}
+.acomodar1{
+  float: left;
+}
+.acomodar1 img{
+  width:500px ;
+  height: 300px; 
+}
+.texto1 {
+font-size: 28px;
+line-height: 30px;
+font-weight: bold;
+float: right;
+}
+.texto10 {
+font-size: 16px;
+float: right;
+}
+.contenedor_img img{
+  width:500px ;
+  height:300px;
+  float: right;
+}
+.espacio{
+  clear: both;
+}
+.contenedor_texto{
+  float: left;
+  width: 400px;
+  padding-top: 50px;
+}
+.contenedor_texto h1{
+font-size: 30px;
+text-align:left;
+
+}
+.texto2{
+font-size: 20px;
+text-align:left;
+
+
+}
+.fondoc{
+  background-color: rgb(209,209,209);
+  height: 400px;
+}
+.acomodar2{
+float: left;
+margin: auto;
+}
+.acomodar2 img{
+  width:500px ;
+  height:300px;
+}
+.acomodar3{
+  float: right; 
+padding: 15px; 
+width: 400px;
+}
+.texto23{
+  font-size: 28px;
+line-height: 30px;
+font-weight: bold;
+float: right;
+}
+.texto20{
+  font-size: 16px;
+float: right;
+}
+
+ .final{
+  clear: both;
+  text-align: center;
+ 
+ }
+ .final h1{
+  font-size: 50px;
+  font-weight: bold;
+  padding-top: 40px;
+  line-height: 70px;
+ }
+ .final span{
+  font-size: 16px;
+ }
+ .final img{
+  width: 70%;
+ }
+ .final h2{
+  font-size: 30px;
+ }
+ .boton_final{
+  padding: 10px 30px;
+  background-color: rgb(1, 102, 255);
+  color: white;
+  border-radius: 60px;
+  text-decoration: none;
+  font-size: 30px;
+ }
+ .boton_final img{
+  width: 30px;
+  height: 30px;
+ }
+ .fondo_negro{
+  background-color: rgb(59, 59, 59);
+ }
+ .titulo{
+  width: 300px;
+  display: inline-block;
+  font-size: 20px;
+  color: #445ef2;
+  line-height: 50px;
+ }
+ .imagenes{
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+ }
+ .facebook{
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+ }
+ 
+ .fondo_negro hr{
+  width: 100%;
+  margin: auto;
+  clear: both;
+  border:1px #445ef2 solid;
+ }
+ .uno{
+display: inline-block;
+vertical-align: top;
+width: 200px;
+text-align: left;
+ }
+ .uno li{
+  color: white;
+  list-style: none;
+ }
+
+ .dos{
+  text-align: left;
+  display: inline-block;
+  vertical-align: top;
+  width: 200px;
+ }
+ .dos li{
+  color: white;
+  list-style: none;
+ }
+ .tres{
+  text-align: left;
+  display: inline-block;
+  vertical-align: top;
+  width: 200px;
+ }
+ .tres li{
+  color: white;
+  list-style: none;
+ }
+ .cuatro{
+  text-align: left;
+  display: inline-block;
+  vertical-align: top;
+  width: 200px;
+ }
+ .cuatro li{
+  color: white;
+  list-style: none;
+ }
+ .azul{
+  color:#445ef2;
+ }
+ .ultimo_boton{
+  color: white;
+  padding: 10px 30px;
+  background-color:#445ef2;
+  float: right;
+  font-size: 16px;
+  text-decoration: none;
+  border-radius: 20px;
+  margin-top: 20px;
+ }
+ .fotofinal{
+  width: 300px;
+  height: 90px;
+ }
+ br{
+  clear: both;
+ }
+ .fondo123{
+  background-color: rgb(240, 239, 239);
+ }
